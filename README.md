@@ -7,6 +7,6 @@ pip install -r requirements.txt
 
 ## Run
 python main.py
-## twillko
-##videosdk 
-#api key 
+## video sdk is used here and twillko 
+you have to also provide api keys in .env file 
+mostly this voice agent is used for customers feedback 
