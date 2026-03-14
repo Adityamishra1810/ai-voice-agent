@@ -1,0 +1,4 @@
+videosdk-agents==0.0.70
+videosdk-plugins-google==0.0.70
+python-dotenv==0.19.2
+requests==2.31.0
